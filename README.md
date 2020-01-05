@@ -18,3 +18,6 @@ The 20 best honeycombs.
 
 # [submission.md](./submission.md)
 What I sent to Mr. Wissner-Gross, prettied up somewhat.
+
+# [enable.txt](./enable.txt)
+The word list that we had to use in its original form.
