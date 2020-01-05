@@ -1,3 +1,6 @@
+I apologize for not reformatting this in markdown.
+I edited this in Excel and pasted it here.
+
 Score	Word		        Score	Count	Total			
 20	reaggregating		20	2	40			
 20	reintegrating		19	4	76			
