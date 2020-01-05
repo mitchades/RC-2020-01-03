@@ -1,6 +1,6 @@
 My first thought was to go through every combination of 7 letters that aren't "s", put each of those letters in the middle, and calculate the score. There are 7 * (25 choose 7) = 3,364,900 possible boards that way. Then, I can go through the word list for each board and figure out what the score of each board is, making sure at some point that there's a pangram. Once I'm done, I just find the one that scores the most. Easy, although going through the word list millions of times might be suboptimal.
 
-I eventually figured out that calculating all the combinations of 7 letters that yield pangrams would save a lot of time. There are 7,986 combinations of letters that yield pangrams. Therefore, there are 7.986 * 7 = 55,902 possible boards. I also figured out that I could calculate the score of each word in advance, along with the set of letters that are required to make it. So, it only took a few minutes to calculate my answer. The code is here:
+I eventually figured out that calculating all the combinations of 7 letters that yield pangrams would save a lot of time. There are 7,986 combinations of letters that yield pangrams. Therefore, there are 7,986 * 7 = 55,902 possible boards. I also figured out that I could calculate the score of each word in advance, along with the set of letters that are required to make it. So, it only took a few minutes to calculate my answer. The code is here:
 
 https://github.com/mitchades/RC-2020-01-03
 
