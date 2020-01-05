@@ -8,7 +8,7 @@ A R I
 ```
 
 # [solve.py](./solve.py)
-Requires Python 3.8 as written because there are a couple of times I use the new `:=` operator for assignment in an expression. If you make the obvious changes to the code where they pop up, you can run this in Python 3.1.
+Requires Python 3.8 as written because there are a couple of times I use the new `:=` operator for assignment within an expression. If you make the obvious changes to the code where they pop up, you can run this in Python 3.1.
 
 # [wordlist.txt](./wordlist.txt)
 The 537 words you can spell with the above honeycomb.
